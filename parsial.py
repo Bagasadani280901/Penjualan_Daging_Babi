@@ -1,8 +1,8 @@
-import streamlit as st # type: ignore
-import sympy as sp # type: ignore
-import numpy as np # type: ignore
-import matplotlib.pyplot as plt # type: ignore
-from mpl_toolkits.mplot3d import Axes3D # type: ignore
+import streamlit as st 
+import sympy as sp 
+import numpy as np 
+import matplotlib.pyplot as plt 
+from mpl_toolkits.mplot3d import Axes3D 
 
 # Header
 st.title("Aplikasi Interaktif: Turunan Parsial dan Bidang Singgung")
